@@ -9,3 +9,7 @@ age = 24
 # 3. Print the type of variable x = 5
 x = 5
 print(type(x))
+
+# 4. Convert string "123" to integer
+strng = "123"
+convertedInt = int(str)
