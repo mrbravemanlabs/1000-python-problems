@@ -63,3 +63,10 @@ myCom = 3+4j
 print(myCom)
 
 
+# 15. Print the value of pi using math module
+import math
+print(math.pi)
+
+
+
+
