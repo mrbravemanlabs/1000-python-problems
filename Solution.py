@@ -35,3 +35,8 @@ a,b,c = 1,2,3
 
 # 9. Create a constant variable (convention)
 VARIABLE = 404
+
+
+# 10. Print the memory address of a variable
+my_var = 234
+print(id(my_var))
