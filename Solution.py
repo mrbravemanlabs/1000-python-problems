@@ -51,3 +51,8 @@ a_var = None
 # 12. Check if a variable is of integer type
 name = "Pawan"
 print(name.isdigit())
+
+
+# 13. Convert integer to string
+integer1 = 4578
+print(str(integer1))
