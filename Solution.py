@@ -32,3 +32,6 @@ print(a,b)
 
 # 8. Assign multiple variables in one line
 a,b,c = 1,2,3
+
+# 9. Create a constant variable (convention)
+VARIABLE = 404
