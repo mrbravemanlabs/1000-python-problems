@@ -12,4 +12,9 @@ print(type(x))
 
 # 4. Convert string "123" to integer
 strng = "123"
-convertedInt = int(str)
+convertedInt = int(strng)
+
+
+# 5. Create a float variable and print it
+my_float = 23.45
+print(my_float)
