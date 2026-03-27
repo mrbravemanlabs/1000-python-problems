@@ -83,3 +83,9 @@ if "my_Var" in globals:
 my_Vr = 345;
 del my_Var 
 
+
+# 19. Create a variable with binary number
+my_bin = bin(1011010)
+
+
+
