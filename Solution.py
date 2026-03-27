@@ -22,3 +22,9 @@ print(my_float)
 
 # 6. Create a boolean variable is_student = True
 is_student = True
+
+# 7. Swap two variables a and b without using a third variable
+a = 23
+b = 24
+a,b = b,a
+print(a,b)
