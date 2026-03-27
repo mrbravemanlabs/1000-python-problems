@@ -23,6 +23,7 @@ print(my_float)
 # 6. Create a boolean variable is_student = True
 is_student = True
 
+
 # 7. Swap two variables a and b without using a third variable
 a = 23
 b = 24
@@ -33,6 +34,7 @@ print(a,b)
 # 8. Assign multiple variables in one line
 a,b,c = 1,2,3
 
+
 # 9. Create a constant variable (convention)
 VARIABLE = 404
 
@@ -41,5 +43,11 @@ VARIABLE = 404
 my_var = 234
 print(id(my_var))
 
+
 # 11. Create a variable with None value
 a_var = None
+
+
+# 12. Check if a variable is of integer type
+name = "Pawan"
+print(name.isdigit())
