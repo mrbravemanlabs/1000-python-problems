@@ -40,3 +40,6 @@ VARIABLE = 404
 # 10. Print the memory address of a variable
 my_var = 234
 print(id(my_var))
+
+# 11. Create a variable with None value
+a_var = None
