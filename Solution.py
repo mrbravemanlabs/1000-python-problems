@@ -56,3 +56,10 @@ print(name.isdigit())
 # 13. Convert integer to string
 integer1 = 4578
 print(str(integer1))
+
+
+# 14. Create a complex number variable
+myCom = 3+4j
+print(myCom)
+
+
