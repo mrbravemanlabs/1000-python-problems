@@ -68,5 +68,7 @@ import math
 print(math.pi)
 
 
-
+# 16. Create a variable with extremely large integer
+myVariable1= 12342152345423546354215e234532453535754376566
+print(myVariable1)
 
