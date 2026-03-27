@@ -18,3 +18,7 @@ convertedInt = int(strng)
 # 5. Create a float variable and print it
 my_float = 23.45
 print(my_float)
+
+
+# 6. Create a boolean variable is_student = True
+is_student = True
