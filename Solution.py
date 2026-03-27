@@ -28,3 +28,7 @@ a = 23
 b = 24
 a,b = b,a
 print(a,b)
+
+
+# 8. Assign multiple variables in one line
+a,b,c = 1,2,3
