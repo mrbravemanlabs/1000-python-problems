@@ -85,7 +85,8 @@ del my_Var
 
 
 # 19. Create a variable with binary number
-my_bin = bin(1011010)
+my_bin = 0b1011010
 
-
+# 20. Create a variable with octal number
+my_oct = 0o1242347123
 
