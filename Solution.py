@@ -72,8 +72,14 @@ print(math.pi)
 myVariable1= 12342152345423546354215e234532453535754376566
 print(myVariable1)
 
+
 # 17. Check if a variable is defined
 my_Var =3423;
 if "my_Var" in globals:
     print("Variavle is Defined")
+    
+
+# 18. Delete a variable using del
+my_Vr = 345;
+del my_Var 
 
