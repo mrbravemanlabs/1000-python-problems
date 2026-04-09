@@ -18,5 +18,7 @@
     
     
 # 24. Take multiple inputs in one line
-x,y,z = input("Enter Values :-").split()
-print(x,y,z)
+a,b,c =input("Enter The Value").split()
+print(a)
+print(b)
+print(c)
